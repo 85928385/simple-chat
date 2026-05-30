@@ -1,0 +1,14 @@
+# Auto-generated files
+messages.json
+chatlog.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
